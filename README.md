@@ -1,2 +1,2 @@
-# test
-test scripts and sources
+# WORK
+test repository for scripts, sources and data
